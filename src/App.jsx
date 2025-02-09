@@ -40,8 +40,8 @@ function App() {
     <div>
       <Navbar />
       <HeroSection />
+       <TrustedCreators />
       <StickyCardScroll/>
-      <TrustedCreators />
       <Features />
       <MarketingSection />
       <FAQSection />
